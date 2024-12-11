@@ -1,7 +1,7 @@
 {
-  "name": "zillateasolo",
-  "version": "0.1.2",
-  "private": false,
+  "name": "zilla",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
